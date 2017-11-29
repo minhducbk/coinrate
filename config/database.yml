@@ -1,0 +1,9 @@
+production:
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  host: <%= ENV['DATABASE_HOST'] || '127.0.0.1' %>
+  database: <%= ENV['DATABASE_NAME'] || 'coinrate_production' %>
+  username: <%= ENV['DATABASE_USER'] || 'postgres' %>
+  password: <%= ENV['DATABASE_PASSWORD'] || 'postgres' %>
+  encoding: utf8
