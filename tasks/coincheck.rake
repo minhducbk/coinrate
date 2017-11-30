@@ -5,11 +5,16 @@ include ApplicationHelper
 
 coin_api_key = "G3YGHSXbnMzsBCEL"
 coin_api_secret = "gD4QULNWNSO4PYYroy1XiGIvaANdVpDq"
+
 namespace :coinbase do
   task :coincheck do
     client = Coinbase::Wallet::Client.new(api_key: coin_api_key, api_secret: coin_api_secret)
     updated = false
+
+    # Load rates from redis cache 
     rates = load_rates
+    
+    # Load new rates from API. Would update to database if the rates change 
     rates.each do |r|
       rate = OpenStruct.new(r)
       new_rate = client.exchange_rates(currency: rate.origin_currency).rates[rate.exchanged_currency].to_i
@@ -19,6 +24,8 @@ namespace :coinbase do
         updated = true
       end
     end
+
+    # Update new rates to redis
     if updated
       update_redis
     end
