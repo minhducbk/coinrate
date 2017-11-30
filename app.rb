@@ -10,4 +10,5 @@ require 'sinatra'
 
 configure {
   set :server, :puma
+  set :server_settings, {:config_files => "-"}
 }

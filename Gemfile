@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'sinatra-activerecord'
+gem 'activesupport'
 gem "bundler"
 gem 'pg'
 gem 'puma'
@@ -10,7 +11,7 @@ gem 'redis-sinatra'
 gem 'redis'
 gem 'redis-namespace'
 gem 'redis-rack-cache'
-gem 'whenever', require: false
 gem 'coinbase'
-gem 'figaro'
 gem 'slim'
+gem 'sinatra-json', '~> 0.1.0'
+# gem 'redis-throttle', git: 'git://github.com/lelylan/redis-throttle.git'

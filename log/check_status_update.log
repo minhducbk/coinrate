@@ -1,0 +1,770 @@
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:7:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+bundler: failed to load command: rake (/home/luffy/.rbenv/versions/2.4.2/bin/rake)
+Bundler::GemNotFound: Could not find gem 'redis-throttle' in any of the gem sources listed in your Gemfile.
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:288:in `block in verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `each'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:48:in `start'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:22:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:257:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:170:in `specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:237:in `specs_for'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:226:in `requested_specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:108:in `block in definition_method'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:20:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler.rb:107:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/setup.rb:20:in `<top (required)>'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+bundler: failed to load command: rake (/home/luffy/.rbenv/versions/2.4.2/bin/rake)
+Bundler::GemNotFound: Could not find gem 'redis-throttle' in any of the gem sources listed in your Gemfile.
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:288:in `block in verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `each'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:48:in `start'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:22:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:257:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:170:in `specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:237:in `specs_for'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:226:in `requested_specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:108:in `block in definition_method'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:20:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler.rb:107:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/setup.rb:20:in `<top (required)>'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+bundler: failed to load command: rake (/home/luffy/.rbenv/versions/2.4.2/bin/rake)
+Bundler::GemNotFound: Could not find gem 'redis-throttle' in any of the gem sources listed in your Gemfile.
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:288:in `block in verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `each'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:48:in `start'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:22:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:257:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:170:in `specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:237:in `specs_for'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:226:in `requested_specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:108:in `block in definition_method'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:20:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler.rb:107:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/setup.rb:20:in `<top (required)>'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+bundler: failed to load command: rake (/home/luffy/.rbenv/versions/2.4.2/bin/rake)
+Bundler::GemNotFound: Could not find gem 'redis-throttle' in any of the gem sources listed in your Gemfile.
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:288:in `block in verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `each'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:48:in `start'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:22:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:257:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:170:in `specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:237:in `specs_for'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:226:in `requested_specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:108:in `block in definition_method'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:20:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler.rb:107:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/setup.rb:20:in `<top (required)>'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+bundler: failed to load command: rake (/home/luffy/.rbenv/versions/2.4.2/bin/rake)
+Bundler::GemNotFound: Could not find gem 'redis-throttle' in any of the gem sources listed in your Gemfile.
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:288:in `block in verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `each'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:256:in `verify_gemfile_dependencies_are_found!'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:48:in `start'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/resolver.rb:22:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:257:in `resolve'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:170:in `specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:237:in `specs_for'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/definition.rb:226:in `requested_specs'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:108:in `block in definition_method'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/runtime.rb:20:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler.rb:107:in `setup'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.0/lib/bundler/setup.rb:20:in `<top (required)>'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+  /home/luffy/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+rake aborted!
+NameError: uninitialized constant Rack::Throttle
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:8:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant Rack::Throttle
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:8:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+rake aborted!
+NameError: uninitialized constant Rack::Throttle
+NameError: uninitialized constant Rack::Throttle
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:8:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:8:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant Rack::Throttle
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:8:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant Rack::Throttle
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:8:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `workers' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:60:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `port' for main:Object
+Did you mean?  post
+/home/luffy/Projects/coinrate/config/puma.rb:14:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+!
+!=
+!~
+<
+<=
+<=>
+==
+===
+=~
+>
+>=
+__id__
+__send__
+`
+acts_like?
+alias_attribute
+ancestors
+anonymous?
+as_json
+attr_internal
+attr_internal_accessor
+attr_internal_reader
+attr_internal_writer
+autoload
+autoload?
+blank?
+cattr_accessor
+cattr_reader
+cattr_writer
+class
+class_eval
+class_exec
+class_variable_defined?
+class_variable_get
+class_variable_set
+class_variables
+clone
+concern
+concerning
+const_defined?
+const_get
+const_missing
+const_set
+constants
+deep_dup
+define_singleton_method
+delegate
+delegate_missing_to
+deprecate
+deprecate_constant
+display
+dup
+duplicable?
+enum_for
+eql?
+equal?
+extend
+freeze
+frozen?
+gem
+guess_for_anonymous
+hash
+html_safe?
+in?
+include
+include?
+included_modules
+inspect
+instance_eval
+instance_exec
+instance_method
+instance_methods
+instance_of?
+instance_values
+instance_variable_defined?
+instance_variable_get
+instance_variable_names
+instance_variable_set
+instance_variables
+is_a?
+itself
+kind_of?
+load_dependency
+mattr_accessor
+mattr_reader
+mattr_writer
+method
+method_defined?
+method_visibility
+methods
+module_eval
+module_exec
+name
+nil?
+object_id
+parent
+parent_name
+parents
+prepend
+presence
+presence_in
+present?
+private_class_method
+private_constant
+private_instance_methods
+private_method_defined?
+private_methods
+protected_instance_methods
+protected_method_defined?
+protected_methods
+psych_to_yaml
+psych_yaml_as
+public_class_method
+public_constant
+public_instance_method
+public_instance_methods
+public_method
+public_method_defined?
+public_methods
+public_send
+rake_extension
+reachable?
+redefine_method
+remove_class_variable
+remove_instance_variable
+remove_possible_method
+remove_possible_singleton_method
+require_dependency
+require_or_load
+respond_to?
+send
+singleton_class
+singleton_class?
+singleton_method
+singleton_methods
+taint
+tainted?
+tap
+thread_cattr_accessor
+thread_cattr_reader
+thread_cattr_writer
+thread_mattr_accessor
+thread_mattr_reader
+thread_mattr_writer
+to_enum
+to_json
+to_param
+to_query
+to_s
+to_yaml
+to_yaml_properties
+trust
+try
+try!
+unloadable
+untaint
+untrust
+untrusted?
+with_options
+yaml_as
+!
+!=
+!~
+<
+<=
+<=>
+==
+===
+=~
+>
+>=
+__id__
+__send__
+`
+acts_like?
+alias_attribute
+ancestors
+anonymous?
+as_json
+attr_internal
+attr_internal_accessor
+attr_internal_reader
+attr_internal_writer
+autoload
+autoload?
+blank?
+cattr_accessor
+cattr_reader
+cattr_writer
+class
+class_eval
+class_exec
+class_variable_defined?
+class_variable_get
+class_variable_set
+class_variables
+clone
+concern
+concerning
+const_defined?
+const_get
+const_missing
+const_set
+constants
+deep_dup
+define_singleton_method
+delegate
+delegate_missing_to
+deprecate
+deprecate_constant
+display
+dup
+duplicable?
+enum_for
+eql?
+equal?
+extend
+freeze
+frozen?
+gem
+guess_for_anonymous
+hash
+html_safe?
+in?
+include
+include?
+included_modules
+inspect
+instance_eval
+instance_exec
+instance_method
+instance_methods
+instance_of?
+instance_values
+instance_variable_defined?
+instance_variable_get
+instance_variable_names
+instance_variable_set
+instance_variables
+is_a?
+itself
+kind_of?
+load_dependency
+mattr_accessor
+mattr_reader
+mattr_writer
+method
+method_defined?
+method_visibility
+methods
+module_eval
+module_exec
+name
+nil?
+object_id
+parent
+parent_name
+parents
+prepend
+presence
+presence_in
+present?
+private_class_method
+private_constant
+private_instance_methods
+private_method_defined?
+private_methods
+protected_instance_methods
+protected_method_defined?
+protected_methods
+psych_to_yaml
+psych_yaml_as
+public_class_method
+public_constant
+public_instance_method
+public_instance_methods
+public_method
+public_method_defined?
+public_methods
+public_send
+rake_extension
+reachable?
+redefine_method
+remove_class_variable
+remove_instance_variable
+remove_possible_method
+remove_possible_singleton_method
+require_dependency
+require_or_load
+respond_to?
+send
+singleton_class
+singleton_class?
+singleton_method
+singleton_methods
+taint
+tainted?
+tap
+thread_cattr_accessor
+thread_cattr_reader
+thread_cattr_writer
+thread_mattr_accessor
+thread_mattr_reader
+thread_mattr_writer
+to_enum
+to_json
+to_param
+to_query
+to_s
+to_yaml
+to_yaml_properties
+trust
+try
+try!
+unloadable
+untaint
+untrust
+untrusted?
+with_options
+yaml_as
+rake aborted!
+NameError: uninitialized constant Puma
+/home/luffy/Projects/coinrate/config/puma.rb:13:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NameError: uninitialized constant Puma
+/home/luffy/Projects/coinrate/config/puma.rb:13:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+SyntaxError: /home/luffy/Projects/coinrate/config/puma.rb:10: syntax error, unexpected tIDENTIFIER, expecting end-of-input
+Specifies the `port` that Puma will listen on to receiv
+                         ^
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `port' for main:Object
+Did you mean?  post
+/home/luffy/Projects/coinrate/config/puma.rb:14:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `port' for main:Object
+Did you mean?  post
+/home/luffy/Projects/coinrate/config/puma.rb:14:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `port' for main:Object
+Did you mean?  post
+/home/luffy/Projects/coinrate/config/puma.rb:14:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)
+rake aborted!
+NoMethodError: undefined method `environment' for main:Object
+/home/luffy/Projects/coinrate/config/puma.rb:71:in `<top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `each'
+/home/luffy/Projects/coinrate/controllers/application_controller.rb:10:in `<top (required)>'
+/home/luffy/Projects/coinrate/app.rb:3:in `<top (required)>'
+/home/luffy/Projects/coinrate/models/exchange_rate.rb:1:in `<top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `block in <top (required)>'
+/home/luffy/Projects/coinrate/Rakefile:3:in `each'
+/home/luffy/Projects/coinrate/Rakefile:3:in `<top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+(See full trace by running task with --trace)

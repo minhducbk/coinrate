@@ -1,81 +1,97 @@
-=== puma startup: 2017-11-29 17:10:59 +0700 ===
-[32062] * Starting control server on unix:///tmp/puma-status-1511950259063-32062
-[32062] - Gracefully shutting down workers...
-[1782] Early termination of worker
-[1805] Early termination of worker
-[1791] Early termination of worker
-[1796] Early termination of worker
-[32062] === puma shutdown: 2017-11-29 17:12:25 +0700 ===
-[32062] - Goodbye!
-=== puma startup: 2017-11-29 17:12:26 +0700 ===
-[1809] * Starting control server on unix:///tmp/puma-status-1511950346297-1809
-[1809] - Gracefully shutting down workers...
-[14187] Early termination of worker
-[14183] Early termination of worker
-[14191] Early termination of worker
-[14179] Early termination of worker
-[1809] === puma shutdown: 2017-11-29 17:20:36 +0700 ===
-[1809] - Goodbye!
-=== puma startup: 2017-11-29 17:20:37 +0700 ===
-[14202] * Starting control server on unix:///tmp/puma-status-1511950837833-14202
-[14202] - Gracefully shutting down workers...
-[20256] Early termination of worker
-[20263] Early termination of worker
-[20267] Early termination of worker
-[20251] Early termination of worker
-[14202] === puma shutdown: 2017-11-29 17:25:20 +0700 ===
-[14202] - Goodbye!
-=== puma startup: 2017-11-29 17:26:14 +0700 ===
-[20468] * Starting control server on unix:///tmp/puma-status-1511951174550-20468
-[20468] - Gracefully shutting down workers...
-[20907] Early termination of worker
-[20897] Early termination of worker
-[20903] Early termination of worker
-[20912] Early termination of worker
-[20468] === puma shutdown: 2017-11-29 17:26:33 +0700 ===
-[20468] - Goodbye!
-=== puma startup: 2017-11-29 17:27:04 +0700 ===
-[21045] * Starting control server on unix:///tmp/puma-status-1511951224669-21045
-[21045] - Gracefully shutting down workers...
-[21426] Early termination of worker
-[21430] Early termination of worker
-[21421] Early termination of worker
-[21435] Early termination of worker
-[21045] === puma shutdown: 2017-11-29 17:27:20 +0700 ===
-[21045] - Goodbye!
-=== puma startup: 2017-11-29 17:27:36 +0700 ===
-[21500] * Starting control server on unix:///tmp/puma-status-1511951256994-21500
-[21500] - Gracefully shutting down workers...
-[22009] Early termination of worker
-[22002] Early termination of worker
-[22015] Early termination of worker
-[22020] Early termination of worker
-[21500] === puma shutdown: 2017-11-29 17:27:55 +0700 ===
-[21500] - Goodbye!
-=== puma startup: 2017-11-29 17:28:33 +0700 ===
-[22164] * Starting control server on unix:///tmp/puma-status-1511951313576-22164
-[22164] - Gracefully shutting down workers...
-[22964] Early termination of worker[22974] Early termination of worker
-[22959] Early termination of worker
+[18923] - Gracefully shutting down workers...
+[19344] Early termination of worker
+[19340] Early termination of worker
+[19329] Early termination of worker
+[19335] Early termination of worker
+[18923] === puma shutdown: 2017-11-30 08:48:37 +0700 ===
+[18923] - Goodbye!
+=== puma startup: 2017-11-30 08:48:41 +0700 ===
+[19375] * Starting control server on unix:///tmp/puma-status-1512006521266-19375
+[19375] - Gracefully shutting down workers...
+[19487] Early termination of worker
+[19492] Early termination of worker
+[19483] Early termination of worker
+[19496] Early termination of worker
+[19375] === puma shutdown: 2017-11-30 08:48:45 +0700 ===
+[19375] - Goodbye!
+=== puma startup: 2017-11-30 08:50:22 +0700 ===
+[19891] * Starting control server on unix:///tmp/puma-status-1512006622452-19891
+[19891] - Gracefully shutting down workers...
+[20044] Early termination of worker
+[20058] Early termination of worker
+[20049] Early termination of worker
+[20053] Early termination of worker
+[19891] === puma shutdown: 2017-11-30 08:50:28 +0700 ===
+[19891] - Goodbye!
+=== puma startup: 2017-11-30 08:50:35 +0700 ===
+[20090] * Starting control server on unix:///tmp/puma-status-1512006635056-20090
+[20090] - Gracefully shutting down workers...
+[20333] Early termination of worker[20329] Early termination of worker
 
-[22969] Early termination of worker
-[22164] === puma shutdown: 2017-11-29 17:29:05 +0700 ===
-[22164] - Goodbye!
-=== puma startup: 2017-11-29 17:34:03 +0700 ===
-[24180] * Starting control server on unix:///tmp/puma-status-1511951643941-24180
-[24180] - Gracefully shutting down workers...
-[24866] Early termination of worker
-[24871] Early termination of worker
-[24856] Early termination of worker
-[24876] Early termination of worker
-[24180] === puma shutdown: 2017-11-29 17:34:33 +0700 ===
-[24180] - Goodbye!
-=== puma startup: 2017-11-29 17:37:59 +0700 ===
-[25695] * Starting control server on unix:///tmp/puma-status-1511951879138-25695
-[25695] - Gracefully shutting down workers...
-[26070] Early termination of worker
-[26074] Early termination of worker
-[26063] Early termination of worker
-[26059] Early termination of worker
-[25695] === puma shutdown: 2017-11-29 17:38:14 +0700 ===
-[25695] - Goodbye!
+[20340] Early termination of worker
+[20324] Early termination of worker
+[20090] === puma shutdown: 2017-11-30 08:50:45 +0700 ===
+[20090] - Goodbye!
+=== puma startup: 2017-11-30 08:51:47 +0700 ===
+[20603] * Starting control server on unix:///tmp/puma-status-1512006707880-20603
+[20603] - Gracefully shutting down workers...
+[20793] Early termination of worker[20782] Early termination of worker
+[20788] Early termination of worker
+
+[20797] Early termination of worker
+[20603] === puma shutdown: 2017-11-30 08:51:55 +0700 ===
+[20603] - Goodbye!
+=== puma startup: 2017-11-30 08:52:28 +0700 ===
+[20921] * Starting control server on unix:///tmp/puma-status-1512006748257-20921
+[20921] - Gracefully shutting down workers...
+[21065] Early termination of worker
+[21051] Early termination of worker
+[21061] Early termination of worker
+[21056] Early termination of worker
+[20921] === puma shutdown: 2017-11-30 08:52:33 +0700 ===
+[20921] - Goodbye!
+=== puma startup: 2017-11-30 08:52:46 +0700 ===
+[21141] * Starting control server on unix:///tmp/puma-status-1512006766474-21141
+[21141] - Gracefully shutting down workers...
+[21278] Early termination of worker
+[21282] Early termination of worker
+[21292] Early termination of worker
+[21297] Early termination of worker
+[21141] === puma shutdown: 2017-11-30 08:52:52 +0700 ===
+[21141] - Goodbye!
+=== puma startup: 2017-11-30 08:53:16 +0700 ===
+[21445] * Starting control server on unix:///tmp/puma-status-1512006796141-21445
+[21445] - Gracefully shutting down workers...
+[21635] Early termination of worker[21630] Early termination of worker
+
+[21645] Early termination of worker
+[21641] Early termination of worker
+[21445] === puma shutdown: 2017-11-30 08:53:23 +0700 ===
+[21445] - Goodbye!
+=== puma startup: 2017-11-30 08:53:35 +0700 ===
+[21703] * Starting control server on unix:///tmp/puma-status-1512006815521-21703
+[21703] - Gracefully shutting down workers...
+[21863] Early termination of worker[21856] Early termination of worker
+
+[21867] Early termination of worker
+[21871] Early termination of worker
+[21703] === puma shutdown: 2017-11-30 08:53:41 +0700 ===
+[21703] - Goodbye!
+=== puma startup: 2017-11-30 08:53:47 +0700 ===
+[21903] * Starting control server on unix:///tmp/puma-status-1512006827213-21903
+[21903] - Gracefully shutting down workers...
+[22114] Early termination of worker
+[22118] Early termination of worker
+[22106] Early termination of worker
+[22122] Early termination of worker
+[21903] === puma shutdown: 2017-11-30 08:53:55 +0700 ===
+[21903] - Goodbye!
+=== puma startup: 2017-11-30 08:54:06 +0700 ===
+[22192] * Starting control server on unix:///tmp/puma-status-1512006846816-22192
+[22192] - Gracefully shutting down workers...
+[22429] Early termination of worker
+[22414] Early termination of worker
+[22424] Early termination of worker
+[22419] Early termination of worker
+[22192] === puma shutdown: 2017-11-30 08:54:15 +0700 ===
+[22192] - Goodbye!

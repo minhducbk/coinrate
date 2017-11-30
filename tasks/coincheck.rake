@@ -12,8 +12,8 @@ namespace :coinbase do
     rates = load_rates
     rates.each do |r|
       rate = OpenStruct.new(r)
-      new_rate = client.exchange_rates(currency: rate.origin_currency).rates[rate.exchanged_currency]
-      old_rate = rate.price
+      new_rate = client.exchange_rates(currency: rate.origin_currency).rates[rate.exchanged_currency].to_i
+      old_rate = rate.rate
       if (new_rate != old_rate)
         update_price(rate.origin_currency, rate.exchanged_currency, new_rate)
         updated = true

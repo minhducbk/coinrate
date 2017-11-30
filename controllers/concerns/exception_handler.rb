@@ -1,14 +1,16 @@
+require 'active_support/all'
+
 module ExceptionHandler
   # provides the more graceful `included` method
+  # extend ActiveSupport::Rescuable
   extend ActiveSupport::Concern
 
   included do
-    rescue_from ActiveRecord::RecordNotFound do |e|
-      json_response({ message: e.message }, :not_found)
-    end
-
-    rescue_from ActiveRecord::RecordInvalid do |e|
-      json_response({ message: e.message }, :unprocessable_entity)
+    begin
+    rescue ActiveRecord::RecordNotFound 
+      json_response({ message: "RecordNotFound" }, :not_found)
+    rescue ActiveRecord::RecordInvalid 
+      json_response({ message: "RecordInvalid"}, :unprocessable_entity)
     end
   end
 end
