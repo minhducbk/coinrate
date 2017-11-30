@@ -6,10 +6,9 @@ module ApplicationHelper
   def load_rates
     rates = $redis.get("exchange_rates")
     if rates.nil?
-      rates = update_redis
-      # $redis.expire("snippets", 5.hour.to_i)
+      rates = ExchangeRate.all.to_json
     end
-    JSON.load rates
+    JSON.parse rates
   end
 
   # Update new rate to database
@@ -19,9 +18,7 @@ module ApplicationHelper
   end   
 
   # Update new rates to redis
-  def update_redis
-    rates = ExchangeRate.all.to_json
-    $redis.set("exchange_rates", rates)
-    rates
+  def update_redis(rates)
+    $redis.set("exchange_rates", rates.to_json)
   end
 end
