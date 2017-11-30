@@ -18,7 +18,7 @@ module ApplicationHelper
     rate.update_columns(rate: price)
   end   
 
-  # Update database
+  # Update new rates to redis
   def update_redis
     rates = ExchangeRate.all.to_json
     $redis.set("exchange_rates", rates)

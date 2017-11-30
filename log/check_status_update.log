@@ -768,3 +768,19 @@ NoMethodError: undefined method `environment' for main:Object
 /home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
 /home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
 (See full trace by running task with --trace)
+rake aborted!
+JSON::ParserError: 409: unexpected token at '{:id=>2, :origin_currency=>"ETH", :exchanged_currency=>"USD", :rate=>449, :created_at=>"2017-11-30T03:23:18.826Z", :updated_at=>"2017-11-30T03:23:18.826Z"}, {:id=>1, :origin_currency=>"BTC", :exchanged_currency=>"USD", :rate=>10294, :created_at=>"2017-11-30T03:23:18.820Z", :updated_at=>"2017-11-30T03:23:18.820Z"}]'
+/home/luffy/Projects/mc_exchange_rates/helpers/application_helper.rb:12:in `load_rates'
+/home/luffy/Projects/mc_exchange_rates/tasks/coincheck.rake:15:in `block (2 levels) in <top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+Tasks: TOP => coinbase:coincheck
+(See full trace by running task with --trace)
+rake aborted!
+JSON::ParserError: 409: unexpected token at '{:id=>2, :origin_currency=>"ETH", :exchanged_currency=>"USD", :rate=>449, :created_at=>"2017-11-30T03:23:18.826Z", :updated_at=>"2017-11-30T03:23:18.826Z"}, {:id=>1, :origin_currency=>"BTC", :exchanged_currency=>"USD", :rate=>10294, :created_at=>"2017-11-30T03:23:18.820Z", :updated_at=>"2017-11-30T03:23:18.820Z"}]'
+/home/luffy/Projects/mc_exchange_rates/helpers/application_helper.rb:12:in `load_rates'
+/home/luffy/Projects/mc_exchange_rates/tasks/coincheck.rake:15:in `block (2 levels) in <top (required)>'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `load'
+/home/luffy/.rbenv/versions/2.4.2/bin/bundle:23:in `<main>'
+Tasks: TOP => coinbase:coincheck
+(See full trace by running task with --trace)
