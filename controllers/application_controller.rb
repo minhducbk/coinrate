@@ -17,12 +17,14 @@ class ApplicationController < Sinatra::Base
 
   get '/exchange-rates' do
     content_type :json
-    # Load rates from database    
-    # @rates = ExchangeRate.all.map{|rate| rate.slice("origin_currency", "exchanged_currency", "rate")}.to_json 
         
     # Load rates from redis cache    
     @rates = JSON.parse($redis.get("exchange_rates")).map{|rate| 
                         rate.slice("origin_currency", "exchanged_currency", "rate")}.to_json
+
+    # Load rates from database    
+    @rates = ExchangeRate.all.map{|rate| rate.slice("origin_currency", "exchanged_currency", "rate")}.to_json if @rates.nil?
+
     @rates
   end
 
